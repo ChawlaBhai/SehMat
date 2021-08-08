@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SehMat/static/css/main.44f58d52.chunk.css",
-    "main.js": "/SehMat/static/js/main.3d6f0642.chunk.js",
-    "main.js.map": "/SehMat/static/js/main.3d6f0642.chunk.js.map",
+    "main.js": "/SehMat/static/js/main.94d53105.chunk.js",
+    "main.js.map": "/SehMat/static/js/main.94d53105.chunk.js.map",
     "runtime-main.js": "/SehMat/static/js/runtime-main.21922ba7.js",
     "runtime-main.js.map": "/SehMat/static/js/runtime-main.21922ba7.js.map",
     "static/js/2.1211cf3c.chunk.js": "/SehMat/static/js/2.1211cf3c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.21922ba7.js",
     "static/js/2.1211cf3c.chunk.js",
     "static/css/main.44f58d52.chunk.css",
-    "static/js/main.3d6f0642.chunk.js"
+    "static/js/main.94d53105.chunk.js"
   ]
 }
