@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sehmatfoundation/static/css/main.44f58d52.chunk.css",
+    "main.js": "/sehmatfoundation/static/js/main.7e3bd658.chunk.js",
+    "main.js.map": "/sehmatfoundation/static/js/main.7e3bd658.chunk.js.map",
+    "runtime-main.js": "/sehmatfoundation/static/js/runtime-main.c422c7c6.js",
+    "runtime-main.js.map": "/sehmatfoundation/static/js/runtime-main.c422c7c6.js.map",
+    "static/js/2.85ec4e71.chunk.js": "/sehmatfoundation/static/js/2.85ec4e71.chunk.js",
+    "static/js/2.85ec4e71.chunk.js.map": "/sehmatfoundation/static/js/2.85ec4e71.chunk.js.map",
+    "static/js/3.64fdacd6.chunk.js": "/sehmatfoundation/static/js/3.64fdacd6.chunk.js",
+    "static/js/3.64fdacd6.chunk.js.map": "/sehmatfoundation/static/js/3.64fdacd6.chunk.js.map",
+    "index.html": "/sehmatfoundation/index.html",
+    "static/css/main.44f58d52.chunk.css.map": "/sehmatfoundation/static/css/main.44f58d52.chunk.css.map",
+    "static/js/2.85ec4e71.chunk.js.LICENSE.txt": "/sehmatfoundation/static/js/2.85ec4e71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c422c7c6.js",
+    "static/js/2.85ec4e71.chunk.js",
+    "static/css/main.44f58d52.chunk.css",
+    "static/js/main.7e3bd658.chunk.js"
+  ]
+}
